@@ -1,9 +1,5 @@
 Testing from browser
 
 
-<<<<<<< HEAD
 Added 3 new lines locally
-=======
 
-Adding 5 new lines.
->>>>>>> f9c40b7ec43d0be18d75ef0588bd34cc3bcde66b
